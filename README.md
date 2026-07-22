@@ -96,6 +96,20 @@ This repository will continue to grow as I complete additional CCNA labs and exp
 
 ---
 
+
+## 📚 Study Resources
+
+The following resources have been instrumental in my CCNA studies and the completion of these labs:
+
+- **Jeremy's IT Lab – Free CCNA 200-301 Complete Course (YouTube)**
+  - Comprehensive CCNA video series featuring hands-on Packet Tracer labs, quizzes, and in-depth explanations of networking concepts.
+
+- **Cisco CCNA 200-301 – The Complete Guide to Getting Certified** by **Neil Anderson** (Udemy)
+  - A structured CCNA course covering the Cisco 200-301 exam objectives with practical demonstrations, quizzes, and real-world networking scenarios.
+
+---
+
+
 ## 📄 License
 
 This repository is intended for educational and portfolio purposes.
