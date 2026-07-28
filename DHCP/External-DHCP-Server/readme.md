@@ -37,8 +37,8 @@ interface GigabitEthernet0/1
 
 ## Verification
 
-- `show running-config` ([View Output](verification-router.png))
-- `ipconfig /all` ([View Output](verification-client.png))
+- `show running-config` ![View Output](verification-router.png)
+- `ipconfig /all` ![View Output](verification-client.png)
 
 ## What I Learned
 
