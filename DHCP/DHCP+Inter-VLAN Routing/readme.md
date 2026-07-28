@@ -2,7 +2,7 @@
 
 In this lab, I configured a router to provide **DHCP services for multiple VLANs** using **Router-on-a-Stick**. A single router interface carries traffic for multiple VLANs over an 802.1Q trunk, allowing clients in different VLANs to automatically receive IP addresses from separate DHCP pools.
 
-This simplified topology represents a common design used in **small networks**, where a single router handles both inter-VLAN routing and DHCP services.
+This simplified topology represents a common small business network where a centralized DHCP server manages IP address allocation for multiple VLANs
 
 ## Objective
 
