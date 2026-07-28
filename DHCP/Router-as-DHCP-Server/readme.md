@@ -18,10 +18,7 @@ Gain hands-on experience configuring a router to provide DHCP services and verif
 
 ## Verification
 - `show ip dhcp binding`
-- `show ip dhcp pool`
-- `show running-config`
-- `ipconfig /all`
-- `ipconfig /renew`
+(verification.png)
 
 ## Files
 - `Router-as-DHCP-Server.pkt` — Cisco Packet Tracer lab
