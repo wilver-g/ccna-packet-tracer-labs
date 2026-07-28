@@ -17,7 +17,7 @@ Gain hands-on experience configuring a router to provide DHCP services and verif
 ![Network Topology](topology.png)
 
 ## Verification
-- `show ip dhcp binding`!(verification.png)
+- `show ip dhcp binding`![Verification Screenshot](verification.png)
 
 ## Files
 - `Router-as-DHCP-Server.pkt` — Cisco Packet Tracer lab
