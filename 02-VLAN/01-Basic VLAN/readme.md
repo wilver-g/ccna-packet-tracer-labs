@@ -72,7 +72,7 @@ interface range FastEthernet0/3-4
 
 ### Switchport Configuration
 
-`show interfaces switchport`
+`show running-config`
 
 ![Switchport Configuration](verification-switchport.png)
 
