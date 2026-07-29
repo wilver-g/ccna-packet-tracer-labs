@@ -117,6 +117,13 @@ Examples:
 - Confirmed that devices in the same VLAN can communicate across multiple switches through a trunk link.
 - Reinforced that trunking extends VLANs between switches but does not provide inter-VLAN communication.
 
+
+## Additional Notes
+
+By default, Cisco trunk ports use VLAN 1 as the native VLAN. Frames belonging to the native VLAN are transmitted untagged unless configured otherwise.
+
+This lab uses the default native VLAN configuration.
+
 ## Files
 
 - `VLAN-Trunking-802.1Q.pkt` — Cisco Packet Tracer lab
@@ -124,3 +131,4 @@ Examples:
 - `verification-vlan.png` — Output of `show vlan brief`
 - `verification-trunk.png` — Output of `show interfaces trunk`
 - `verification-ping.png` — Connectivity verification
+
