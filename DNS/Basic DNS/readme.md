@@ -53,7 +53,7 @@ facebook.com  →  203.0.113.2
 
 ### Web Browser
 
-`http://facebook.com`
+`https://facebook.com`
 
 ![Browser Verification](verification-browser.png)
 
