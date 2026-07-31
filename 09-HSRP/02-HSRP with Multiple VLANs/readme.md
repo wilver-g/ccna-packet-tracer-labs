@@ -115,7 +115,7 @@ With **MSW1** acting as the Active gateway, traffic from both VLANs is forwarded
 
 **Video**
 
-[![Traffic Flow Before Failover](traffic-flow-before-failover-thumbnail.png)](simulation-before-failover.mp4)
+![Traffic Flow Before Failover](simulation-before-failover.gif)
 
 ---
 
@@ -152,7 +152,7 @@ After **MSW1** fails, **MSW2** becomes the Active gateway and forwards all inter
 
 **Video**
 
-[![Traffic Flow After Failover](traffic-flow-after-failover-thumbnail.png)](simulation-after-failover.mp4)
+![Traffic Flow After Failover](simulation-after-failover.gif)
 
 ---
 
