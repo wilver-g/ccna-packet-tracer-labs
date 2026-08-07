@@ -42,17 +42,17 @@ Each building functions as an independent Layer 2 domain while communicating thr
 
 ## Full Campus Overview
 
-> Replace with a screenshot of the complete topology.
 
-![Full Campus](images/full-topology.png)
+
+![Full Campus](full-topology.png)
 
 ---
 
 ## 🏢 Main Building
 
-> Replace with a screenshot of the Main Building.
 
-![Main Building](images/main-building.png)
+
+![Main Building](main-building.png)
 
 The Main Building contains:
 
@@ -70,9 +70,9 @@ The Main Building contains:
 
 ## 🏥 Cancer Center
 
-> Replace with a screenshot of the Cancer Center.
 
-![Cancer Center](images/cancer-center.png)
+
+![Cancer Center](cancer-center.png)
 
 The Cancer Center contains:
 
@@ -249,19 +249,19 @@ The following screenshots verify the successful implementation of the network.
 - End-to-End Connectivity Tests
 
 
-![OSPF](images/ospf-neighbors.png)
+![OSPF](ospf-neighbors.png)
 
-![HSRP](images/hsrp-status.png)
+![HSRP](hsrp-status.png)
 
-![EtherChannel](images/etherchannel.png)
+![EtherChannel](etherchannel.png)
 
-![Routing Table](images/routing-table.png)
+![Routing Table](routing-table.png)
 
-![DHCP](images/dhcp.png)
+![DHCP](dhcp.png)
 
-![SSH](images/ssh.png)
+![SSH](ssh.png)
 
-![Ping Test](images/ping-test.png)
+![Ping Test](ping-test.png)
 
 ---
 
