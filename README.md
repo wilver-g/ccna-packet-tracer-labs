@@ -58,26 +58,26 @@ The labs are organized in the order I studied them.
 
 Throughout these labs I configured and verified:
 
-- 🌐 IPv4 Routing
-- 🔀 VLAN Segmentation
-- 🔗 802.1Q Trunking
-- 🚦 Inter-VLAN Routing
-- 🧭 OSPF
-- 🛣️ Static & Default Routing
-- 📦 DHCP
-- 📡 DHCP Relay (IP Helper)
-- 🌍 DNS
-- 🔄 NAT / PAT
-- 🛡️ Standard & Extended ACLs
-- 🌲 Spanning Tree Protocol
-- 🔗 EtherChannel (LACP & PAgP)
-- ⚖️ HSRP Gateway Redundancy
-- 🔒 Port Security
-- 🛑 DHCP Snooping
-- 🛡️ Dynamic ARP Inspection (DAI)
-- 🔐 SSH Device Management
-- 🏢 Enterprise Network Design
-- 🔍 Network Verification & Troubleshooting
+- IPv4 Routing
+- VLAN Segmentation
+- 802.1Q Trunking
+- Inter-VLAN Routing
+- OSPF
+- Static & Default Routing
+- DHCP
+- DHCP Relay (IP Helper)
+- DNS
+- NAT / PAT
+- Standard & Extended ACLs
+- Spanning Tree Protocol
+- EtherChannel (LACP & PAgP)
+- HSRP Gateway Redundancy
+- Port Security
+- DHCP Snooping
+- Dynamic ARP Inspection (DAI)
+- SSH Device Management
+- Enterprise Network Design
+- Network Verification & Troubleshooting
 
 ---
 
@@ -87,18 +87,18 @@ The repository concludes with a comprehensive enterprise campus network inspired
 
 The final lab integrates many technologies learned throughout the repository, including:
 
-- 🏢 Three-tier Campus Architecture
-- 🌐 Core, Distribution, and Access Layers
-- 🧭 OSPF Dynamic Routing
-- ⚖️ HSRP Gateway Redundancy
-- 🔗 Layer 2 EtherChannel
-- 🏷️ Multiple VLANs (Employee, Guest, Voice, Management)
-- 📦 Centralized DHCP Services
-- 🔐 SSH Management
-- 📡 DHCP Relay (IP Helper)
-- 🛡️ Layer 2 Security
-- ☎️ Voice VLAN & IP Telephony
-- 🏥 Enterprise Switching Design
+- Three-tier Campus Architecture
+- Core, Distribution, and Access Layers
+- OSPF Dynamic Routing
+- HSRP Gateway Redundancy
+- Layer 2 EtherChannel
+- Multiple VLANs (Employee, Guest, Voice, Management)
+- Centralized DHCP Services
+- SSH Management
+- DHCP Relay (IP Helper)
+- Layer 2 Security
+- Voice VLAN & IP Telephony
+- Enterprise Switching Design
 
 Rather than configuring isolated features, this lab demonstrates how these technologies work together in a realistic production-style network.
 
@@ -108,12 +108,12 @@ Rather than configuring isolated features, this lab demonstrates how these techn
 
 Most labs include:
 
-- 📄 Packet Tracer (.pkt) file
-- 🖼️ Network topology
-- 🎯 Configuration objectives
-- ✅ Verification commands
-- 🎥 Traffic simulation GIFs (where applicable)
-- 📝 README documentation explaining the concepts demonstrated
+- Packet Tracer (.pkt) file
+- Network topology
+- Configuration objectives
+- Verification commands
+- Traffic simulation GIFs (where applicable)
+- README documentation explaining the concepts demonstrated
 
 ---
 
@@ -131,12 +131,12 @@ Most labs include:
 
 The purpose of this repository is to:
 
-- 📘 Reinforce CCNA concepts through hands-on practice
-- ⚙️ Develop practical Cisco IOS configuration skills
-- 🔍 Improve network troubleshooting ability
-- 🏢 Practice enterprise network design
-- 📈 Track my CCNA learning journey
-- 💼 Build a networking portfolio for future employers
+- Reinforce CCNA concepts through hands-on practice
+- Develop practical Cisco IOS configuration skills
+- Improve network troubleshooting ability
+- Practice enterprise network design
+- Track my CCNA learning journey
+- Build a networking portfolio for future employers
 
 ---
 
