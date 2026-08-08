@@ -92,8 +92,8 @@ The network follows a traditional **Three-Tier Enterprise Campus Architecture**.
 
 ## Core Layer
 
-- CSV1
-- CSV2
+- CSW1
+- CSW2
 
 Responsibilities:
 
